@@ -1,0 +1,27 @@
+.empy-container {
+    width: 40%;
+}
+
+.sign-in-btn {
+    background: #f3cd6f;
+    border: 1px solid #846a29;
+    text-decoration: none;
+    color: black;
+    margin: 30px;
+    padding: 10px 70px;
+}
+
+.btn-container {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px;
+}
+
+.btn-1 {
+    flex: 30%;
+    margin-bottom: 30px;
+}
+
+.btn-2 {
+    flex: 70%;
+}
